@@ -33,7 +33,5 @@ Open `Deaths-Project.pbix` in Power BI to interact with the visualizations.
 - Certain diseases exhibit seasonal trends.
 - Interactive visualizations help understand global disparities in healthcare.
 
- Contact & Contributions
-Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 
